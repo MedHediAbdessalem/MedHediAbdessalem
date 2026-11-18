@@ -54,12 +54,44 @@ Each distinct commit I authored counts once, including commits on non-default br
 
 ## Toolkit
 
-| Area | Technologies |
-| :--- | :--- |
-| **Mobile** | React Native, React Navigation, Jotai, Kotlin, Objective-C, Gradle, Android, iOS, i18next |
-| **Web & UI** | React, Next.js, Tailwind CSS, Zustand, React Flow, Monaco Editor, Framer Motion |
-| **Backend & data** | TypeScript, JavaScript, Node.js, NestJS, PHP, Laravel, REST, GraphQL, Apollo, WebSockets, MongoDB, Mongoose, PostgreSQL, Drizzle ORM |
-| **AWS & cloud services** | AWS SDK, Amazon S3, Amazon CloudFront, Amazon Rekognition, AWS SAM, Firebase Cloud Messaging, Google Maps and Places |
-| **Payments & integrations** | Stripe, Stripe Connect, Stripe PaymentSheet, Infobip, FFmpeg, Sharp |
-| **AI & computer vision** | Anthropic Claude, Amazon Rekognition, Google Cloud Vision, Sightengine, TensorFlow.js, NSFWJS |
-| **Delivery & testing** | GitHub Actions, Docker Compose, Linux, SSH, Jest, Vitest, Playwright, Postman/Newman, Artillery |
+### Mobile
+
+![React Native, Kotlin, Android, iOS](./toolkit/mobile.svg)
+
+React Navigation · Jotai · Objective-C · Gradle · i18next
+
+### Web & UI
+
+![React, Next.js, Tailwind CSS, Framer Motion](./toolkit/web.svg)
+
+Zustand · React Flow · Monaco Editor
+
+### Backend & data
+
+![TypeScript, NestJS, GraphQL, PostgreSQL](./toolkit/backend.svg)
+
+JavaScript · Node.js · PHP · Laravel · REST · Apollo · WebSockets · MongoDB · Mongoose · Drizzle ORM
+
+### AWS & cloud services
+
+![Amazon S3, Amazon CloudFront, Firebase, Google Maps](./toolkit/cloud.svg)
+
+AWS SDK · AWS SAM · Amazon Rekognition · Firebase Cloud Messaging · Google Places
+
+### Payments & integrations
+
+![Stripe, Stripe Connect, FFmpeg, Sharp](./toolkit/payments.svg)
+
+Stripe PaymentSheet · Infobip
+
+### AI & computer vision
+
+![Anthropic Claude, Amazon Rekognition, Google Cloud Vision, TensorFlow.js](./toolkit/ai.svg)
+
+Sightengine · NSFWJS
+
+### Delivery & testing
+
+![GitHub Actions, Docker, Vitest, Jest](./toolkit/delivery.svg)
+
+Docker Compose · Linux · SSH · Playwright · Postman/Newman · Artillery
