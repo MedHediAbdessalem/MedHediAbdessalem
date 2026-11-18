@@ -9,6 +9,29 @@ Mobile engineering · Payments · Trust &amp; safety · Cloud tooling</p>
   <a href="#toolkit">Toolkit</a>
 </p>
 
+### Explore an engineering flow
+
+<details name="engineering-flow" open>
+<summary><strong>Payments</strong> · Follow a Stripe payment into an e-wallet</summary>
+
+![Animated flow from Stripe PaymentSheet through webhook confirmation to e-wallet funds and transaction history.](./showcase/payments.svg)
+
+</details>
+
+<details name="engineering-flow">
+<summary><strong>AI moderation</strong> · Trace how an upload is screened</summary>
+
+![Animated flow from a text or media upload through AI screening to an allow or block decision.](./showcase/moderation.svg)
+
+</details>
+
+<details name="engineering-flow">
+<summary><strong>Cloud tooling</strong> · See how a design is saved and reopened</summary>
+
+![Animated flow from the architecture canvas through a PostgreSQL save to reopening the design.](./showcase/cloud.svg)
+
+</details>
+
 ---
 
 I build features from the mobile interface through the API and database. My work includes Stripe payment flows, AI-assisted moderation, real-time messaging, event ticketing, and visual tools for cloud architecture.
