@@ -4,6 +4,7 @@
 Mobile engineering · Payments · Trust &amp; safety · Cloud tooling</p>
 
 <p align="center">
+  <a href="#contribution-history">Contribution history</a> &nbsp;·&nbsp;
   <a href="#what-ive-built">What I’ve built</a> &nbsp;·&nbsp;
   <a href="#toolkit">Toolkit</a>
 </p>
@@ -11,6 +12,12 @@ Mobile engineering · Payments · Trust &amp; safety · Cloud tooling</p>
 ---
 
 I build features from the mobile interface through the API and database. My work includes Stripe payment flows, AI-assisted moderation, real-time messaging, event ticketing, and visual tools for cloud architecture.
+
+## Contribution history
+
+![4,868 authored commits across four codebases. 1,261 in 2025 and 3,607 in 2026 through November 18. The line chart shows the running total by month.](./contribution-history.svg)
+
+Each distinct commit I authored counts once, including commits on non-default branches. The total excludes merge commits and reflects the four codebases reviewed through November 18, 2026.
 
 ## What I’ve built
 
